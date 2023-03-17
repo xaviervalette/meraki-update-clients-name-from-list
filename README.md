@@ -3,8 +3,7 @@
 ## What is it ?
 Example of python script to update the clients name of devices displayed on the ```Network-wide``` > ```Clients``` :
 
-<img width="1771" alt="image" src="https://user-images.githubusercontent.com/28600326/226063047-25286287-3522-41fd-9c06-079f498a58d4.png">
-
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/28600326/226065922-8a6c7af1-90d6-4726-8c80-a5a6723c6699.png">
 
 ## Prerequisites
 - Meraki Dashboard access
