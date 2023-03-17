@@ -49,6 +49,9 @@ clients:
 ...
 
 ```
+> ⚠ The script will work even if the MAC is not in the given network clients page
+
+
 
 5. Now you can run the code by using the following command:
 ```console
