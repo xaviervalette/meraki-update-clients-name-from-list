@@ -1,7 +1,7 @@
 # Meraki update clients name from list
 
 ## What is it ?
-Example of python script to update the clients name of devices displayed on the ```Network-wide``` > ```Clients``` :
+Python script to update the clients name of devices displayed on the ```Network-wide``` > ```Clients``` :
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/28600326/226066143-7c40e6ac-ca0c-4a8b-874b-dcb9fd5ea141.png">
 
