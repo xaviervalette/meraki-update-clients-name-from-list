@@ -42,11 +42,10 @@ clients:
   - mac: "<secondClientMac>"
     name: "<secondClientName>"
     
-[...]
+#[...]
 
   - mac: "<lastClientMac>"
-    name: "<lastClientName>"
-    
+    name: "<lastClientName>" 
 ...
 
 ```
