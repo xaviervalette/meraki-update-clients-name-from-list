@@ -3,6 +3,9 @@
 ## What is it ?
 Python script to update the clients name of devices displayed on the ```Network-wide``` > ```Clients```
 
+<p align="center">
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/28600326/227801958-494c3566-735c-440a-9f7a-dcd76bb2061f.png">
+</p>
 
 ## Prerequisites
 - Meraki Dashboard access
